@@ -162,8 +162,8 @@ h2 {
 
   .note {
     width: 40%;
-    height: 100%;
-    margin: 1px;
+    height: 80%;
+    margin: 1px; 
   }
 
   .taskname {
@@ -172,7 +172,7 @@ h2 {
 
   .taskdesc {
     overflow: hidden;
-    font-size: x-small;
+    font-size: small;
   }
 
   .contentbox{
